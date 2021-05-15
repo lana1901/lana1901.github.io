@@ -1,0 +1,49 @@
+.header{height:150px;
+background-color:#B0CCC8;
+border:1px;
+display:flex;
+flex-direction:row;
+}
+.newbrand{ width:100px;
+height:100px;
+background-size:contain;
+border-radius:50%;
+background-repeat:no-repeat;
+}
+.imgsize1{height:300px;
+width: 450px;
+border-radius:25%}
+img {height:500px;
+}
+.w-100{
+    object-fit: contain;
+}
+
+.imgsize{height:150px;
+width: 150px;
+border-radius:25%
+}
+h3{font-family:Akademische schmalfette;
+font-size:25px;
+color:red;}
+@font-face{font-family:Akademische schmalfette;
+src:url("../font/20016 (1).ttf");
+format("opentype")}
+
+.containerPhoto {
+    position: relative;
+    text-align: center;
+}
+.TextPhotoCentered {
+    position: absolute;
+	font-size:100px;
+	background-color:#4169E1;
+	border-radius: 15%;
+	color:white;
+	opacity: 0.7;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+

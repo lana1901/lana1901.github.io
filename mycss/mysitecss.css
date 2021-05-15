@@ -1,0 +1,47 @@
+html,body {height:100%}
+body{background-color:#B1DEDE;
+}
+.navbar {top:40px }
+h1 {text-align: center;
+color: red }
+h2 {text-align: ;
+color:}
+ .nav-link{font-size:25px;
+ color:blue;
+ font-weight:bold;
+}
+h4{color:blue}
+li{font-size:20px;
+text-align: justify;}
+ 
+.form-popup {
+  display: none;
+  position: fixed;
+  top:2px;
+  right: 15px;
+border: 3px solid #fff; }
+  h1{font-family:Akademische schmalfette;
+font-size:60px;
+color:red;}
+@font-face{font-family:Akademische schmalfette;
+src:url("../font/20016 (1).ttf");
+format("opentype");
+}
+p.header_online_SH{
+	font-size:60px;
+	color:#000080;
+	font-family:Adventure;
+	
+}
+.footer{height:25%;
+background-color:#6C8CD5 ;
+font-size:20px;
+border:1px #000;
+text-align:center;}
+img.headerIMG{
+	height:400px;
+	object-fit:cover;
+}
+@font-face{font-family:Adventure;
+src:url("../font/Adventure.ttf");
+format("opentype")}
